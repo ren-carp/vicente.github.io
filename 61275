@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>   
+    <title> Science| Welcome</title>
+    <link rel="stylesheet" href="psychology.css">
+ <link rel="icon" href="psychology.jpg">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1>A WEBSITE ABOUT DIFFERENT BRANCHES OF<span class="highlight"> SCIENCE</span></h1>
+        </div>
+        <nav>
+          <ul>
+            <li class="current"><a href="home.html">Home</a></li>
+<li><a href="about.html">Back</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <section id="showcase">
+      <div class="container">
+        
+      </div>
+    </section>
+
+<h1>About Psychology</h1>
+<font face="monospace" size="4"><p>The science of psychology is the study of how the brain, environment, and behavior relate to each other. Psychologists use the scientific method to collect and analyze data to improve lives and solve problems. Psychology is the scientific study of the mind and behavior. It delves into various facets of human thought processes, emotions, motivations, and actions. By understanding psychology, we gain valuable insights into why individuals behave the way they do and how they interact with others.<br><br>
+
+<b>Subfields of Psychology</b>
+<b>Cognitive psychology</b><br>
+Studies mental processes like memory, thinking, and learning<br> <br>
+
+<b>Abnormal psychology</b><br>
+Studies abnormal behavior and mental disorders<br><br> 
+
+<b>Biological psychology</b><br>
+Studies how biological processes affect the mind <br><br>
+
+<b>Health psychology</b><br>
+Uses psychology to promote health, prevent illness, and improve health care <br><br>
+
+<b>Personality psychology</b><br>
+Studies the nature, development, and structure of personality 
+<br><br>
+<b>Behavioral psychology</b><br>
+Studies how to change human behavior through analysis and therapy <br><br>
+ 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page title</title>
+</head>
+<body>
+    
+</body>
+</html></p>
+<h3>Top 3 branches of psychology</h3>
+
+<section id="boxes">
+      <div class="container">
+        <div class="box">
+          <img src="clinical psychology.jpg">
+<font face="times new roman" >
+          <h4>CLINICAL PSYCHOLOGY </h4>
+          <p>Involves diagnosing and treating mental illnesses and disorders. Clinical psychologists work in hospitals, clinics, and private practice.</p>
+        </div>
+
+        <div class="box">
+          <img src="social psychology.jpg">
+          <h4>SOCIAL PSYCHOLOGY</h4>
+          <p>Studies how people think, feel, and behave in social situations. Topics include group behavior, social interactions, and nonverbal communication. </p>
+        </div>
+        <div class="box">
+          <img src="developmental psychology.jpg">
+          <h4>DEVELOPMENTAL PSYCHOLOGY</h4>
+          <p>Studies how people grow and adapt from conception to death. Developmental psychologists can help people reach their full potential.</p></font> 
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <p>Science Website</p>
+    </footer>
+  </body>
+</html>

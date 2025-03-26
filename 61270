@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>   
+<title> Science| Welcome</title>
+<link rel="stylesheet" href="geology.css">
+<link rel="icon" href=".jpg">
+</head>
+<body>
+<header>
+<div class="container">
+<div id="branding">
+<h1>A WEBSITE ABOUT DIFFERENT BRANCHES OF<span class="highlight"> SCIENCE</span></h1>
+</div>
+<nav>
+<ul>
+<li class="current"><a href="home.html">Home
+</a></li>
+<li><a href="about.html">Back</a></li>
+</ul>
+</nav>
+</div>
+</header>
+<h1><p align="center">GEOLOGY</h1></p>
+<section id="showcase">
+<div class="container">
+    
+      </div>
+    </section>
+
+<h1>Geology</h1>
+<font face="monospace" size="4"><p>
+Geology, or <i>geoscience</i>, or <i>earth science</i>, is the scientific study of Earth's structure, composition, and processes. The geologists study:
+<ol>
+<li> how the earth was formed</li>
+<li> the types of rocks that make up the earth
+<li> the history of life on earth </li> 
+<li> the processes that have shaped the Earth over time </li>
+<li> the earth's natural resources, including minerals and energy</li>
+</ol>
+
+<b>How geologists study</b><br><ul>
+<li>make observations of rocks and their relationships to each other</li>
+<li>study fossils</li>
+<li>study how rocks have been deformed</li>
+<li>study how rocks have been changed by heat and/or pressure</li>
+<li>study how tectonic plates move and interact with the mantle</li></ul>
+
+<b>Why study geology?</b><br><ol>
+<li>Studying the Earth's structure and processes helps us understand its past and predict its future </li>
+<li>Geology has practical applications in engineering, military, and forensic studies </li>
+<li>Geology integrates ideas from math, physics, chemistry, and biology </li></ul>
+
+<p>Some topics of Geology: Mineralogy, Stratigraphy, Sedimentology, Paleontology, Igneous geology, Structural geology, Metamorphic geology, and Regional geology.</p>
+
+<h3>BRANCHES OF GEOLOGY</h3>
+</font>
+
+
+<section id="boxes">
+<div class="container">
+<div class="box">
+          <img src="mineralogy.jpg">
+<font face="times new roman" size="4"> 
+          <h4>MINERALOGY </h4> 
+
+<p>Mineralogy is the scientific study of minerals, which are inorganic materials that make up the Earth. It includes the study of their composition, structure, and properties. </p>
+</div>
+
+
+<div class="box">
+<img src="stratigraphy.jpg">
+<h4>STRATIGRAPHY</h4>
+<p>Stratigraphy is the study of rock layers, or strata, and the relationships between them. It's a branch of geology that helps us understand the history of the Earth.</p>
+</div>
+
+
+<div class="box">
+<img src="sedimentology.jpg">
+<h4>SEDIMENTOLOGY</h4>
+<p>Sedimentology, the study of sedimentary rocks and the processes by which they are formed, includes and is related to a large number of phenomena. Sedimentology includes the five fundamental processes defined by the term sediaentation --weathering, erosion, transportation, deposition and diagenesis.
+</p>
+
+ </div>
+ </section>
+<footer>
+<p>Science Website</p>
+</footer>
+</body>
+</html> 
+
+ 
+
+
+ 
+
+
+ 

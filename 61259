@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>World of SCIENCE | </title>
+    <link rel="stylesheet" href="home.css">
+    <link rel="icon" href="img/favicon.png">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1><span class="highlight">SCIENCE</span></h1>
+        </div>
+     <nav>
+          <ul>
+            <li><a href="home.html">Home</a></li>
+            <li class="current"><a href="about.html">About</a></li>
+            <li><a href="trivias.html">Trivias</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>   
+
+<section id="main">
+<div class="container">
+<article id="main-col">
+<h1 class="page-title">About Science</h1>
+<p>
+    <p class="dark">
+<i><b>What is Science?</b></i><br>
+       According to Merriam Webster's Dictionary, science is knowledge or a system of knowledge covering general truths or the operation of general laws especially as obtained and tested through scientific methods. 
+       There are five main branches of science, which are: physical science, life science, earth science, social science, and formal science. On this website, I'm going to talk about the other branches of science that I find most fascinating.
+          </p>
+                    
+<i><b>What are the main branches of Science?</b></i><br>
+The three main branches of science are physical science, life science, and earth science.<br><br>
+
+<b>Physical Science</b><br><ul>
+
+<li>The Study of how non-living things interact
+</li>
+<li>Includes chemistry, physics, and astronomy
+</li>
+<li>Focuses on the laws that govern inanimate objects</li><br></ul>
+
+<b>Life science</b><br>
+<ul>
+<li>The study of how living things grow, develop, and reproduce</li>
+
+<li>Includes biology, botany, and zoology</li>
+
+<li>Also includes genetics, nutrition, and medicine</li><br></ul>
+
+<b>Earth science</b>
+<ul>
+
+<li>The study of the history and structure of Earth</li>
+
+<li>Includes geology, paleontology, meteorology, and oceanography</li>
+
+<li>Focuses on the physical components that make up Earth</li><br></ul>
+
+<b>Other branches of science:</b><br>
+
+<b>Social science</b>: Focuses on human life and its relationship with the environment<br>
+
+<b>Formal science</b>: Studies formal language disciplines such as statistics, mathematics, and logic
+</p>
+</article>
+
+<aside id="sidebar">
+<div class="dark">
+<h3>Branches of Science its Definition</h3>
+<ul>
+<li><a href="biology.html">Biology</a></li>
+<li><a href="astronomy.html">Astronomy</a></li>
+<li><a href="ecology.html">Ecology</a></li>
+<li><a href="geology.html">Geology</a></li>
+<li><a href="psychology.html">Psychology</a></li>
+<li><a href="microbiology.html">Microbiology</a></li>
+<li><a href="anatomy.html">Anatomy</a></li>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <footer>
+      <p><font color="purple"><a href="credits.html">CREDITS</a></font></p>
+    </footer>
+  </body>
+</html>

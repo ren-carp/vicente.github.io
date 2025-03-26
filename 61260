@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>   
+    <title> Science| Welcome</title>
+    <link rel="stylesheet" href="anatomy.css">
+ <link rel="icon" href="anatomy.jpg">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1>A WEBSITE ABOUT DIFFERENT BRANCHES OF<span class="highlight"> SCIENCE</span></h1>
+        </div>
+        <nav>
+          <ul>
+            <li class="current"><a href="home.html">Home</a></li>
+<li><a href="about.html">Back</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <section id="showcase">
+      <div class="container">
+      </div>
+    </section>
+
+<h1>ANATOMY</h1>
+<font face="times new roman" size="4">
+Anatomy, a field in the biological sciences concerned with the identification and description of the body structures of living things. Gross anatomy involves the study of major body structures by dissection and observation and in its narrowest sense is concerned only with the human body.<br><br>
+
+<b>The branches of anatomy include:</b><br> gross anatomy, microscopic anatomy, surface anatomy, embryology, cytology, developmental anatomy, and pathological anatomy. <br><br>
+
+<i><b>Gross anatomy</i></b>
+Also called regional or topographic anatomy, this is the most common branch of anatomy. 
+It studies the body's macroscopic parts using dissection and observation. <br><br>
+
+<i><b>Microscopic anatomy </i></b>
+Also called histology, this branch studies the body's cells and tissues at a microscopic level.<br><br>
+
+<i><b>Surface anatomy </i></b>
+Also called superficial anatomy, this branch studies the anatomical landmarks that are visible on the body's surface.<br><br>
+
+<i><b>Embryology </i></b>
+Also called developmental anatomy, this branch studies the development of an embryo from a zygote to a fetus.<br><br>
+
+<i><b>Cytology </i></b>
+This branch studies the structure of cells, typically from fluid specimens.<br><br>
+
+<i><b>Developmental anatomy </i></b>
+This branch studies the structural changes that cells, tissues, organs, and the body undergo.<br><br>
+
+<i><b>Pathological anatomy</i></b> 
+This branch studies tissues, cells, and their abnormalities.<br><br>
+
+<i><b>Clinical anatomy</i></b>
+This branch applies anatomical knowledge in the medical field.<br><br>
+
+<i><b>Comparative anatomy </i></b>
+This branch compares the structures of different animals, including humans.<br><br>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page title</title>
+</head>
+<body>
+    
+</body>
+</html></p>
+<h3>IMAGES OF:</h3>
+
+<section id="boxes">
+      <div class="container">
+        <div class="box">
+          <img src="gross anatomy.jpg">
+          <h4>GROSS ANATOMY </h4>
+          <p>Gross anatomy is the study of the body's structures that are visible to the naked eye. It's a visual science that includes the study of the form, location, and relationships of body parts.
+ </p>
+        </div>
+
+        <div class="box">
+          <img src="microscopic anatomy.jpg">
+          <h4>MICROSCOPIC ANATOMY</h4>
+          <p>Microscopic anatomy is the study of the structure of cells, tissues, and molecules using a microscope. It's also known as histology. </p>
+        </div>
+
+<div class="box">
+          <img src="embryology.jpg">
+          <h4>EMBRYOLOGY</h4>
+          <p>Embryology is the study of how an organism develops from a fertilized egg into an adult. It's a branch of biology that includes the study of fertilization, gametes, and the development of embryos and fetuses. 
+<p>      
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <p>Science Website</p>
+    </footer>
+  </body>
+</html>

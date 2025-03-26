@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>World of SCIENCE | </title>
+    <link rel="stylesheet" href="credits.css">
+    <link rel="icon" href="img/favicon.png">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1><span class="highlight">SCIENCE</span></h1>
+        </div>
+     <nav>
+          <ul>
+            <li><a href="home.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="trivias.html">Trivias</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>   
+
+
+<section id="main">
+<div class="container">
+<article id="main-col">
+  <p class="dark">
+<i><b>A token of appreciation to these websites!! <br>
+A special thanks to all the websites that I gathered pictures and informations from! <3</b></i><br>
+</p>
+ 
+<b>OCEAN PICTURE</b><br>
+<i>https://oceanpanel.org/the-oceans-importance/</i><br><br>
+
+<b>STOMACH PICTURE </b><br>
+<i>https://ezra.com/blog/what-does-the-stomach-do</i><br><br>
+
+<b>PICTURE AND TRIVIA ABOUT TECHNOLOGY</b><br>
+<i>https://scope.ie/blog/fun-and-interesting-facts-about-technology/</i><br><br>
+
+<b>FOR SCIENCE PIC</b><br>
+<i>https://www.istockphoto.com/photos/material-science</i><br><br>
+
+<b>BIOLOGY PIC</b><br>
+<i>https://www.britannica.com/science/biology
+https://www.freepik.com/free-photos-vectors/biology </i><br><br>
+
+<b>INFORMATION ABOUT BIOLOGY</b><br>
+<i>https://www.britannica.com/science/genetics</i><br><br>
+
+<b>PICTURE ABOUT BIOCHEMISTRY </b><br>
+<i>https://wou.edu/chemistry/courses/online-chemistry-textbooks/ch450-and-ch451-biochemistry-defining-life-at-the-molecular-level/chapter-1-the-foundations-of-biochemistry/ </i><br><br>
+
+<b>PICTURE ABOUT BIOMEDICINE</b><br>
+<i>https://www.premedprojects.co.uk/graduate-entry-medicine/biomedical-science-as-a-graduate-entry-route-to-medicine?amp=1 </i><br><br>
+
+<b>PICTURE ABOUT BIOPHYSICS </b><br>
+<i>https://omicstutorials.com/recent-advancements-in-biophysics-for-bioinformatics/</i><br><br>
+
+<b>INFORMATION ABOUT ECOLOGY</b><br>
+<i>https://esa.org/about/what-does-ecology-have-to-do-with-me/#:~:text=Ecology%20is%20the%20study%20of,and%20the%20world%20around%20them.</i><br>
+
+<b>ECOLOGY PIC</b><br>
+<i>https://byjus.com/biology/ecology/</i><br><br>
+
+<b>SCIENCE TRIVIAS ABOUT THE HUMAN BODY</b><br>
+<i>https://sathee.prutor.ai/article/biology/biology-amazing-facts-trivia-on-human-body/</i><br><br>
+
+<b>PICTURE ABOUT POPULATION ECOLOGY</b><br>
+<i>https://interfaithsustain.com/population-ecology/</i><br><br>
+
+<b>PICTURE ABOUT COMMUNITY ECOLOGY</b><br>
+https://www.britannica.com/science/community-ecology</i><br><br>
+
+<b>ECOSYSTEM ECOLOGY</b><br> <i>https://humanityhusbandsgoddessearth.wordpress.com/2014/11/22/deep-ecology/</i><br><br>
+
+<b>PICTURE ABOUT ASTRONOMY</b><br>
+<i>https://www.timeshighereducation.com/student/subjects/what-can-you-do-astronomy-degree</i> <br><br>
+
+<b>PICTURE FOR TRIVIA BACKGROUND </b><br>
+<i>https://www.livescience.com/coldest-place-in-solar-system</i><br><br>
+
+<b>PLANETARY SCIENCE PICTURE </b><br>
+<i>https://science.nasa.gov/planetary-science/</i><br><br>
+
+<b>ASTROMETRY PICTURE </b><br>
+<i>https://astrobiology.com/2024/06/astrometry-as-a-tool-for-discovering-and-weighing-faint-companions-to-nearby-stars.html</i><br><br>
+
+<b>ASTROBIOLOGY PICTURE</b><br>
+<i>https://astrobiology.nasa.gov/ </i>
+<br><br>
+<b>MINERALOGY PICTURE</b><br>
+<i>https://www.soils4teachers.org/mineralogy/ </i><br><br>
+
+<b>STRATIGRAPHY PICTURE</b><br>
+<i>https://www.britannica.com/science/stratigraphy-geology</i><br><br>
+
+<b>SEDIMENTOLOGY PICTURE</b><br>
+<i>https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2018.00173/full173/full173/full173/full</i><br><br>
+
+<b>GEOLOGY PICTURE </b><br>
+<i>https://unsplash.com/s/photos/geology</i><br><br>
+
+<b>PSYCHOLOGY PICTURE </b><br>
+<i>https://psychlearningcurve.org/developing-undergraduate-ambassadors-to-communicate-psychology/ </i><br><br>
+
+<b>BACTERIOLOGY PICTURE </b><br>
+<i>https://www.dreamstime.com/medical-bacteriology-poster-harmful-organisms-virus-substances-causing-problems-human-body-microscopic-molecular-bad-image120146464 </i><br><br>
+
+<b>MICROBIOLOGY </b><br>
+<i>https://www.news-medical.net/life-sciences/How-Important-are-Microorganisms.aspx </i><br><br>
+
+<b>VIROLOGY </b><br>
+<i>https://www.news-medical.net/health/What-is-Virology.aspx </i><br><br>
+
+<b>PROTISTOLOGY </b><br>
+<i>https://www.scilifelab.se/event/protistology-nordics-meeting-2024/</i><br><br>
+
+<b>CLINICAL PSYCHOLOGY PIC</b><br>
+<i>https://www.onlinepsychologydegree.info/lists/5-reasons-to-become-a-clinical-psychologist/</i><br><br>
+
+<b>DEVELOPMENTAL PSYCHOLOGY </b><br>
+<i>https://www.open.edu/openlearn/health-sports-psychology/critically-exploring-psychology/content-section-1.3</i><br><br>
+
+<b>SOCIAL PSYCHOLOGY</b><br>
+<i>https://stock.adobe.com/ph/search?k=%22social+psychology%22</i><br><br>
+
+<b>ANATOMY PIC</b><br>
+<i>https://www.britannica.com/science/anatomy</i><br><br>
+
+<b>GROSS ANATOMY PICTURE</b><br>
+<i>https://pressbooks.bccampus.ca/advancedanatomy1sted/chapter/gross-anatomy/</i><br><br>
+
+<b>MICROSCOPIC ANATOMY PIC</b><br>
+<i>https://www.sciencedirect.com/topics/medicine-and-dentistry/microscopic-anatomy</i> <br><br>
+
+<b>EMBRYOLOGY PICTURE</b>
+<i>https://byjus.com/biology/embryology/</i>
+</p>
+</div>
+</aside>
+</div>
+</section>
+ 
+    <footer>
+      <p>Science Website</p>
+    </footer>
+  </body>
+</html>

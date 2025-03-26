@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>   
+    <title> Science| Welcome</title>
+    <link rel="stylesheet" href="microbiology.css">
+ <link rel="icon" href="microbiology.jpg">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1>A WEBSITE ABOUT DIFFERENT BRANCHES OF<span class="highlight"> SCIENCE</span></h1>
+        </div>
+        <nav>
+          <ul>
+            <li class="current"><a href="home.html">Home</a></li>
+<li><a href="about.html">Back</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <section id="showcase">
+      <div class="container">
+      </div>
+    </section>
+
+<h1>MICROBIOLOGY </h1>
+<font face="monospace" size="5">
+Microbiology is the study of microorganisms, which are organisms that are too small to see without a microscope. Microorganisms are essential to life on Earth. <br><br>
+
+<b>What does microbiology study? </b>
+<i><b>Viruses:</i></b> How viruses function inside cells<br><br>
+
+<i><b>Bacteria:</i></b> How bacteria cause disease<br><br>
+
+<i><b>Fungi:</i></b> How fungi cause disease, such as ringworm and athlete's foot<br><br>
+
+<i><b>Parasites:</i></b> How parasites cause disease<br><br>
+
+<i><b>Algae:</i></b> How algae contribute to life on Earth<br><br>
+
+<i><b>Protozoa:</i></b> How protozoa cause disease, such as amoebic dysentery and malaria<br><br>
+
+<b>Subdisciplines of microbiology: </b><br>
+bacteriology, mycology, phycology, parasitology, virology, protistology, and immunology.<br><br>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page title</title>
+</head>
+<body>
+    
+</body>
+</html></p>
+<h3>SUBDISCIPLINES OF MICROBIOLOGY</h3>
+
+<section id="boxes">
+      <div class="container">
+        <div class="box">
+          <img src="protistology.jpg">
+          <h4>PROTISTOLOGY</h4>
+          <p>Protistology is the scientific study of protists, which are a diverse group of organisms that are not animals, plants, or fungi. Protists are important in food webs and can be pathogens.</p>
+        </div>
+
+        <div class="box">
+          <img src="virology.jpg">
+          <h4>VIROLOGY</h4>
+          <p>Virology is the scientific study of viruses, including their structure, evolution, and the diseases they cause. It's a subfield of microbiology and pathology.  </p>
+        </div>
+        <div class="box">
+          <img src="bacteriology.jpg">
+          <h4>BACTERIOLOGY</h4>
+          <p>Bacteriology is the study of bacteria and archaea, which are single-celled organisms that are vital to life on Earth. Bacteriology is a branch of microbiology that also includes the study of the genetics, biochemistry, and ecology of bacteria.</p>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <p>Science Website</p>
+    </footer>
+  </body>
+</html>

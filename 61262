@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>   
+<title> Science| Welcome</title>
+<link rel="stylesheet" href="astronomy.css">
+<link rel="icon" href="astronomy.jpg">
+</head>
+<body>
+<header>
+<div class="container">
+<div id="branding">
+<h1>A WEBSITE ABOUT DIFFERENT BRANCHES OF<span class="highlight"> SCIENCE</span></h1>
+</div>
+<nav>
+<ul>
+<li class="current"><a href="home.html">Home
+</a></li>
+<li><a href="about.html">Back</a></li>
+</ul>
+</nav>
+</div>
+</header>
+
+<section id="showcase">
+<div class="container">
+
+</div>
+</section>
+
+<h2>What is Astronomy? </h2>
+<font face="times new roman" size="4">
+<p>Astronomy is the study of celestial objects and events that occur outside of Earth's atmosphere. It's a physical science that uses math, physics, and chemistry to explain the universe. <br>
+
+The study of astronomy involves objects like: lanets, moons, stars, galaxies, comets, and exoplanets. It also involves the studies of events like supernovae, gamma ray bursts, and cosmic microwave background radiation.<br><br>
+
+<h3><b>History of Astronomy</b></h3>
+<font face="times new roman" size="4">
+Astronomy is one of the oldest scientific disciplines that has evolved from the humble beginnings of counting stars and charting constellations with the naked eye to the impressive showcase of humankind's technological capabilities that we see today.  <br>
+
+Early astronomers made observations of the night sky, including the Egyptians, Greeks, Chinese, and Maya.<br>
+
+Despite the progress astronomy has made over millennia, astronomers are still working hard to understand the nature of the universe and humankind's place in it. That question has only gotten more complex as our understanding of the universe grew with our expanding technical capabilities. <br>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>astronomy</title>
+</head>
+<body>
+    
+</body>
+</html></p>
+<h3>BRANCHES OF ASTRONOMY </h3>
+
+<section id="boxes">
+<div class="container">
+<div class="box">
+<img src="astrobiology.jpg">
+          <h4>ASTROBIOLOGY </h4>
+          <p>Astrobiology is the study of life in the universe, including its origins, evolution, and future. It's an interdisciplinary field that combines astronomy, biology, geology, and planetary science. </p>
+        </div>
+
+        <div class="box">
+          <img src="planetary science.jpg">
+          <h4>PLANETARY SCIENCE</h4>
+          <p>Planetary science is the study of planets, moons, and other celestial bodies in our solar system. It's an interdisciplinary field that combines astronomy, geology, physics, and more.  </p>
+        </div>
+        <div class="box">
+          <img src="astrometry.jpg">
+          <h4>ASTROMETRY</h4>
+          <p>Astrometry is the science of measuring the positions and movements of celestial objects. It's a field of astronomy that involves precise measurements of stars and planets in the sky.  </p>
+        </div>
+      </div>
+
+<aside id="sidebar">
+<div class="dark">
+<h3>ASTRONOMY VS ASTROLOGY</h3>
+What's the difference? 
+Astronomy 
+<ol>
+<li>A scientific discipline that studies the universe beyond Earth's atmosphere</li>
+<li>Astronomers study the positions, motions, and properties of celestial objects</li>
+<li>Astronomers use research and observation to base their studies</li></ol>
+
+Astrology
+<ol>
+<li>A non-scientific belief system that uses the positions of celestial objects to predict or explain human behavior</li>
+<li>Astrology is considered a pseudoscience because it has no scientific basis</li>
+<li>Astrology is a form of personal life guide</li>
+</div>
+</aside>
+</div>
+</section>
+
+
+    <footer>
+      <p>Science Website</p>
+    </footer>
+  </body>
+</html> 

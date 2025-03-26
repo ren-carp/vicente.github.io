@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>World of SCIENCE | </title>
+<link rel="stylesheet" href="trivias.css">
+<link rel="icon" href="trivia.jpg">
+</head>
+<body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1><span class="highlight">SCIENCE TRIVIAS</span></h1>
+</div>
+<nav>
+<ul>
+<li><a href="home.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li class="current">
+<a href="trivias.html">Trivias</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>   
+
+<section id="space" class="fade-in">
+<div class="container">
+<article id="main-col">
+<h1 class="page-title"><p class="dark">RANDOM TRIVIAS ABOUT SPACE</p></h1></section></div>
+
+<section id="main">
+<div class="container">
+<article id="main-col">
+
+<table>
+<thead>
+<tr>
+<th>ABOUT</th>
+<th>TRIVIA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Venus</b></td>
+<td>The second closest planet to the sun, Venus is the hottest planet because of its thick atmosphere.</td></tr>
+
+<tr>
+<td><b><b>Water in space</b></b></td>
+<td>In 2011, scientists discovered a huge body of water floating in space, which is 140 trillion times the amount of water in all the Earth's oceans.</td></tr>
+
+<tr>
+<td><b><b>Earth's shape</b></b></td>
+<td>Earth is not a perfect sphere because it bulges at the equator and flattens at the poles. </td></tr>
+
+<tr>
+<td><b>Neptune's winds</b></td>
+<td>Neptune has supersonic winds, with speeds of over 1,100 miles per hour at its highest altitudes.</td></tr>
+
+<tr>
+<td><b>The solar system's size</b></td>
+<td>The solar system is huge, and NASA's Voyager 1 spacecraft became the first human-made object to enter interstellar space in 2012.</td></tr>
+
+<tr>
+<td><b>Water on the moon</b> </td>
+<td>The moon has water in the form of ice trapped in dust and minerals on and under the surface.</td></tr>
+
+<tr>
+<td><b>The moon's distance from Earth</b>
+</td>
+<td>The moon is slowly moving away from Earth, getting about an inch farther away each year.</td></tr>
+
+<tr>
+<td><b>The moon's gravity</b></td>
+<td>The moon's gravity is only 0.17 times as strong as Earth's gravity.</td></tr>
+
+
+<tr>
+<td><b>The "dark side" of the moon</b></td>
+<td> The "dark side" of the moon is a myth; both sides experience the same amount of sunlight, but we only see one side from Earth due to tidal locking.</td></tr>
+
+<tr>
+<td><b>Tidal pull</b>
+</td>
+<td>The Moon's gravity causes the tides on Earth, creating bulges of water on the side facing the Moon and the opposite side.</td>
+</tr> 
+
+<tr>
+<td><b>Slowly drifting away</b></td>
+<td>The Moon is gradually moving further away from Earth at a rate of about 3.8cm per year. </td></tr>
+
+<tr>
+<td><b>Moonquakes</b>
+</td>
+<td>The Moon experiences small "moonquakes" due to the gravitational forces from Earth. </td></tr>
+
+<tr>
+<td><b>No atmosphere</b>
+</td>
+<td>The Moon has no atmosphere, meaning there is no air to breathe on its surface. </td></tr>
+
+<tr>
+<td><b>Formation theory</b>
+</td>
+<td>The prevailing theory is that the Moon formed from debris ejected when a Mars-sized object collided with early Earth.</td></tr>
+
+<tr>
+<td><b>Largest planet</b>
+</td>
+<td>Jupiter is the largest planet in our solar system.</td></tr>
+
+<tr>
+<td><b>Ringed planet</b>
+</td>
+<td>Saturn is most famous for its prominent ring system. </td></tr>
+
+<tr>
+<td><b>Hottest planet</b>
+</td>
+<td>Venus is the hottest planet in our solar system despite not being the closest to the Sun.</td></tr>
+
+<tr>
+<td><b>Red planet</b>
+</td>
+<td>Mars is often called the "Red Planet" due to its reddish appearance from iron oxide on its surface. </td></tr>
+
+<tr>
+<td><b>Sideways rotation</b>
+</td>
+<td>Uranus spins on its side, making it appear to rotate sideways compared to other planets.</td></tr>
+
+<tr>
+<td><b>Great Red Spot</b>
+</td>
+<td>Jupiter has a massive storm known as the Great Red Spot.</td></tr>
+
+<tr>
+<td><b>Space</b>
+</td>
+<td>Light year: A light year is the distance light travels in one year, a unit used to measure vast distances in space.</td></tr>
+
+<tr>
+<td><b>Black holes</b>
+</td>
+<td>Black holes are regions in space with such strong gravity that nothing, not even light, can escape. </td></tr>
+
+<tr>
+<td><b>Asteroids</b>
+</td>
+<td>Asteroids are rocky bodies orbiting the Sun, mostly located in the asteroid belt between Mars and Jupiter. </td></tr>
+
+<tr>
+<td><b>Comets</b>
+</td>
+<td>Comets are icy bodies that develop a tail when they get close to the Sun.</td></tr>
+
+<tr>
+<td><b>Milky Way galaxy</b>
+</td>
+<td>Our solar system is located within the Milky Way galaxy.</td></tr>
+
+<tr>
+<td><b>Supernova</b>
+</td>
+<td>A supernova is a massive explosion of a dying star. </td></tr>
+
+<tr>
+<td><b>Human Space Exploration</b>
+</td>
+<td>Neil Armstrong was the first human to walk on the Moon. </td></tr>
+
+<tr>
+<td><b>International Space Station</b>
+</td>
+<td>The ISS is a research facility orbiting Earth where astronauts from different countries live and work.</td></tr>
+
+<tr>
+<td><b>Space shuttle</b>
+</td>
+<td>The Space Shuttle was a reusable spacecraft used for multiple missions to space. </td></tr>
+
+<tr>
+<td><b>Hubble Space Telescope</b>
+</td>
+<td>The Hubble Telescope is a powerful space telescope that has provided stunning images of the universe.</td></tr>
+
+</table>
+</section> 
+</article>
+
+
+
+
+    <footer>
+      <p>Science Website</p>
+    </footer>
+  </body>
+</html>

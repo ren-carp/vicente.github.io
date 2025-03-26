@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>   
+    <title> Science| Welcome</title>
+    <link rel="stylesheet" href="biology.css">
+ <link rel="icon" href="biologyy.jpg">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1>A WEBSITE ABOUT DIFFERENT BRANCHES OF<span class="highlight"> SCIENCE</span></h1>
+        </div>
+        <nav>
+          <ul>
+            <li class="current"><a href="home.html">Home</a></li>
+<li><a href="about.html">Back</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <section id="showcase">
+      <div class="container">
+        <font face="Times new roman" size="12" color="black"><i><br><br>Biology </i> </font>
+      </div>
+    </section>
+
+<h1>About Biology</h1>
+<font face="monospace" size="5"><p>Biology is the study of living things and their vital processes. The field deals with all the physicochemical aspects of life. The modern tendency toward cross-disciplinary research and the unification of scientific knowledge and investigation from different fields has resulted in significant overlap of the field of biology with other scientific disciplines. Modern principles of other fields—chemistry, medicine, and physics, for example—are integrated with those of biology in areas such as biochemistry, biomedicine, and biophysics.<br><br>
+
+Biology is subdivided into separate branches for convenience of study, though all the subdivisions are interrelated by basic principles. Thus, while it is custom to separate the study of plants <i>(botany)</i>from that of animals <i>(zoology)</i>, and the study of the structure of organisms <i>(morphology)</i>from that of function <i>(physiology)</i>, all living things share in common certain biological phenomena—for example, various means of reproduction, cell division, and the transmission of genetic material.</font>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page title</title>
+</head>
+<body>
+    
+</body>
+</html></p>
+<h3>BIOLOGY AREAS</h3>
+
+<section id="boxes">
+      <div class="container">
+        <div class="box">
+          <img src="biochemistry.jpg">
+          <h4>BIOCHEMISTRY </h4>
+          <p>Biochemistry is the study of the chemical processes in living organisms. It combines biology and chemistry to understand how biological molecules interact and function in the body.</p>
+        </div>
+
+        <div class="box">
+          <img src="biomedicine.jpg">
+          <h4>BIOMEDICINE</h4>
+          <p>Biomedicine is a medical science that combines biology and physiology with clinical practice. It's also known as allopathic medicine, conventional medicine, or Western medicine.</p>
+        </div>
+        <div class="box">
+          <img src="biophysics.jpg">
+          <h4>BIOPHYSICS </h4>
+          <p>Biophysics is an interdisciplinary science that studies biological systems using the principles of physics, chemistry, and mathematics. Biophysicists use these methods to understand the structure, function, and interactions of biological systems.</p>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <p>Science Website</p>
+    </footer>
+  </body>
+</html>

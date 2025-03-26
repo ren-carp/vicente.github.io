@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>   
+    <title> Science| Welcome</title>
+    <link rel="stylesheet" href="ecology.css">
+<link rel="icon" href="biologyy.jpg">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1>A WEBSITE ABOUT DIFFERENT BRANCHES OF<span class="highlight"> SCIENCE</span></h1>
+        </div>
+        <nav>
+          <ul>
+            <li class="current"><a href="home.html">Home</a></li>
+<li><a href="about.html">Back</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+<h1><p align="center">ECOLOGY</h1></p>
+    <section id="showcase">
+      <div class="container">
+    
+      </div>
+    </section>
+
+<h1>About Ecology </h1>
+<font face="monospace" size="5"><p>Ecology is the study of how living things interact with their environment. It includes the study of how different species interact with each other and how these interactions impact ecosystems. Ecology is a branch of biology that is concerned with the abundance and distribution of organisms. It seeks to understand how the Earth can support all life and includes the study of how humans interact with other living things and how they affect us. <br><br>
+
+Ecology has several branches including population ecology, community ecology, ecosystem ecology, aquatic ecology, terrestrial ecology, behavioral ecology, landscape ecology, restoration ecology, and more, each focusing on different aspects of how organisms interact with their environment at various scales. </font>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page title</title>
+</head>
+<body>
+    
+</body>
+</html></p>
+<h3>Brches of Ecology</h3>
+
+<section id="boxes">
+      <div class="container">
+        <div class="box">
+          <img src="population ecology.jpg">
+          <h4>POPULATION ECOLOGY </h4>
+          <p>Studies the dynamics of a single species population, including factors like density, growth rate, and dispersion. </p>
+        </div>
+
+        <div class="box">
+          <img src="ecosystem ecology.jpg">
+          <h4>ECOSYSTEM ECOLOGY </h4>
+          <p>Analyzes the relationships between living organisms and their non-living environment within a specific ecosystem. </p>
+        </div>
+        <div class="box">
+          <img src="community ecology.jpg">
+          <h4>COMMUNITY ECOLOGY</h4>
+          <p>Examines interactions between different species within a given area, like competition, predation, and mutualism. </p>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <p>Science Website</p>
+    </footer>
+  </body>
+</html> 
